@@ -20,7 +20,7 @@
 }
 
 .ht {
-    min-height: 195px;
+    min-height: 134px;
 }
 
 .sic {
@@ -40,4 +40,6 @@ p {
     -webkit-print-color-adjust: exact;
 }
 
-.img{display:visible}
+.img {
+    display: visible
+}
